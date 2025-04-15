@@ -43,5 +43,185 @@
   "category": "Seeds",
   "type": "Fruits",
   "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684503/apple_hfxv9n.png",
+  "alternative_image": "alt",
+  "title": "Cabbage",
+  "price": 950,
+  "description": "Gloria F1",
+  "old_price": "1000",
+  "category": "Seeds",
+  "type": "Vegetables",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684534/mango_va80ut.png",
+  "alternative_image": "alt",
+  "title": "Capsicum",
+  "price": 530,
+  "description": "Carlifonia Wonder",
+  "old_price": "600",
+  "category": "Seeds",
+  "type": "Vegetables",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684520/banana_mmm1mz.png",
+  "alternative_image": "alt",
+  "title": "Tomato",
+  "price": 1900,
+  "description": "Emerald F1",
+  "old_price": "2000",
+  "category": "Seeds",
+  "type": "Vegetables",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684565/tomatoes_imscw1.png",
+  "alternative_image": "alt",
+  "title": "Managu",
+  "price": 250,
+  "description": "Simlaw",
+  "old_price": "300",
+  "category": "Seeds",
+  "type": "Vegetables",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684503/apple_hfxv9n.png",
+  "alternative_image": "alt",
+  "title": "Onion",
+  "price": 10000,
+  "description": "Neptune F1",
+  "old_price": "11000",
+  "category": "Seeds",
+  "type": "Vegetables",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684534/mango_va80ut.png",
+  "alternative_image": "alt",
+  "title": "Spinach",
+  "price": 200,
+  "description": "FordHook",
+  "old_price": "250",
+  "category": "Seeds",
+  "type": "Vegetables",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684520/banana_mmm1mz.png",
+  "alternative_image": "alt",
+  "title": "Bracharia",
+  "price": 45,
+  "description": "Mulato II splits 50 pcs min",
+  "old_price": "50",
+  "category": "Seeds",
+  "type": "Fodder",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684565/tomatoes_imscw1.png",
+  "alternative_image": "alt",
+  "title": "Canola",
+  "price": 3450,
+  "description": "Hyola 1 kg",
+  "old_price": "3600",
+  "category": "Seeds",
+  "type": "Fodder",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684503/apple_hfxv9n.png",
+  "alternative_image": "alt",
+  "title": "Chicory",
+  "price": 7000,
+  "description":  "Commander 2 kgs",
+  "old_price": "7500",
+  "category": "Seeds",
+  "type": "Fodder",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684534/mango_va80ut.png",
+  "alternative_image": "alt",
+  "title": "Mango",
+  "price": 30,
+  "description": "Juicy",
+  "old_price": "40",
+  "category": "Seeds",
+  "type": "Fruits",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684520/banana_mmm1mz.png",
+  "alternative_image": "alt",
+  "title": "Banana",
+  "price": 30,
+  "description": "Juicy",
+  "old_price": "40",
+  "category": "Seeds",
+  "type": "Fruits",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684565/tomatoes_imscw1.png",
+  "alternative_image": "alt",
+  "title": "Tomato",
+  "price": 30,
+  "description": "Juicy",
+  "old_price": "40",
+  "category": "Seeds",
+  "type": "Fruits",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684503/apple_hfxv9n.png",
+  "alternative_image": "alt",
+  "title": "Apple",
+  "price": 30,
+  "description": "Juicy",
+  "old_price": "40",
+  "category": "Seeds",
+  "type": "Fruits",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684534/mango_va80ut.png",
+  "alternative_image": "alt",
+  "title": "Mango",
+  "price": 30,
+  "description": "Juicy",
+  "old_price": "40",
+  "category": "Seeds",
+  "type": "Fruits",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684520/banana_mmm1mz.png",
+  "alternative_image": "alt",
+  "title": "Banana",
+  "price": 30,
+  "description": "Juicy",
+  "old_price": "40",
+  "category": "Seeds",
+  "type": "Fruits",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
+},
+
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684565/tomatoes_imscw1.png",
+  "alternative_image": "alt",
+  "title": "Tomato",
+  "price": 30,
+  "description": "Juicy",
+  "old_price": "40",
+  "category": "Seeds",
+  "type": "Fruits",
+  "userID": "605c5f5e8f1b2c001c8e4e8a"
 }
 ]
