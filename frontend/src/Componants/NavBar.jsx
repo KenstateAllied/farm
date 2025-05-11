@@ -335,8 +335,8 @@ const NAV_ITEMS = [
         href: "/products?category=seeds&type=herb_seeds",
       },
       {
-        label: "Microgreen Seeds",
-        href: "/products?category=seeds&type=microgreens_seeds",
+        label: "Fodder Seeds",
+        href: "/products?category=seeds&type=fodder_seeds",
       },
       {
         label: "Fruits Seeds",

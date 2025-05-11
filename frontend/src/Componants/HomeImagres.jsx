@@ -75,7 +75,7 @@ export default function HomeImage() {
               "https://gardenguru.in/cdn/shop/files/microgreens-sq.jpg?v=1627029079"
             }
             imageAlt={"image2"}
-            text={"Microgreens Seeds"}
+            text={"Fodder Seeds"}
           />
           <Card
             imageUrl={

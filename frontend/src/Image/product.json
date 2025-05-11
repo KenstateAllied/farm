@@ -4,7 +4,7 @@
   "alternative_image": "alt",
   "title": "Apple",
   "price": 30,
-  "description": "Juicy",
+  "description": "Imported Seedlings",
   "old_price": "40",
   "category": "Seeds",
   "type": "Fruits",
@@ -15,7 +15,7 @@
   "alternative_image": "alt",
   "title": "Mango",
   "price": 30,
-  "description": "Juicy",
+  "description": "Quality",
   "old_price": "40",
   "category": "Seeds",
   "type": "Fruits",
@@ -26,7 +26,7 @@
   "alternative_image": "alt",
   "title": "Banana",
   "price": 30,
-  "description": "Juicy",
+  "description": "Culture",
   "old_price": "40",
   "category": "Seeds",
   "type": "Fruits",
@@ -38,14 +38,14 @@
   "alternative_image": "alt",
   "title": "Tomato",
   "price": 30,
-  "description": "Juicy",
+  "description": "Tree Tomato",
   "old_price": "40",
   "category": "Seeds",
   "type": "Fruits",
   "userID": "605c5f5e8f1b2c001c8e4e8a"
 },
 {
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684503/apple_hfxv9n.png",
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727638/cabbage_epuzen.png",
   "alternative_image": "alt",
   "title": "Cabbage",
   "price": 950,
@@ -56,7 +56,7 @@
   "userID": "605c5f5e8f1b2c001c8e4e8a"
 },
 {
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684534/mango_va80ut.png",
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727638/capsicum_i3ckmp.png",
   "alternative_image": "alt",
   "title": "Capsicum",
   "price": 530,
@@ -67,7 +67,7 @@
   "userID": "605c5f5e8f1b2c001c8e4e8a"
 },
 {
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684520/banana_mmm1mz.png",
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727638/emeraldF1tomato_g3uwkh.png",
   "alternative_image": "alt",
   "title": "Tomato",
   "price": 1900,
@@ -79,7 +79,7 @@
 },
 
 {
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684565/tomatoes_imscw1.png",
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727638/managu_pj6wjn.png",
   "alternative_image": "alt",
   "title": "Managu",
   "price": 250,
@@ -90,7 +90,7 @@
   "userID": "605c5f5e8f1b2c001c8e4e8a"
 },
 {
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684503/apple_hfxv9n.png",
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727638/onion_eq6qcz.pngg",
   "alternative_image": "alt",
   "title": "Onion",
   "price": 10000,
@@ -101,7 +101,7 @@
   "userID": "605c5f5e8f1b2c001c8e4e8a"
 },
 {
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684534/mango_va80ut.png",
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727638/spinach_ppp1iu.png",
   "alternative_image": "alt",
   "title": "Spinach",
   "price": 200,
@@ -112,7 +112,7 @@
   "userID": "605c5f5e8f1b2c001c8e4e8a"
 },
 {
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684520/banana_mmm1mz.png",
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727860/bracharia_bibjvu.png",
   "alternative_image": "alt",
   "title": "Bracharia",
   "price": 45,
@@ -124,7 +124,7 @@
 },
 
 {
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684565/tomatoes_imscw1.png",
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727861/canola_mcpzyf.png",
   "alternative_image": "alt",
   "title": "Canola",
   "price": 3450,
@@ -135,7 +135,7 @@
   "userID": "605c5f5e8f1b2c001c8e4e8a"
 },
 {
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684503/apple_hfxv9n.png",
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727864/Chicory_bhfhve.png",
   "alternative_image": "alt",
   "title": "Chicory",
   "price": 7000,
@@ -143,85 +143,369 @@
   "old_price": "7500",
   "category": "Seeds",
   "type": "Fodder",
-  "userID": "605c5f5e8f1b2c001c8e4e8a"
+  "userID": ""
 },
 {
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684534/mango_va80ut.png",
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727844/desmodium_njmnuu.png",
   "alternative_image": "alt",
-  "title": "Mango",
-  "price": 30,
-  "description": "Juicy",
-  "old_price": "40",
+  "title": "Desmodium",
+  "price": 1500,
+  "description": "Green Leaf 1kg",
+  "old_price": "1550",
   "category": "Seeds",
-  "type": "Fruits",
-  "userID": "605c5f5e8f1b2c001c8e4e8a"
+  "type": "Fodder",
+  "userID": ""
 },
 {
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684520/banana_mmm1mz.png",
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727860/boma_u2tp6u.png",
   "alternative_image": "alt",
-  "title": "Banana",
-  "price": 30,
-  "description": "Juicy",
-  "old_price": "40",
+  "title": "Boma Rhodes",
+  "price": 1700,
+  "description": "Kenya seed",
+  "old_price": "1800",
   "category": "Seeds",
-  "type": "Fruits",
-  "userID": "605c5f5e8f1b2c001c8e4e8a"
-},
-
-{
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684565/tomatoes_imscw1.png",
-  "alternative_image": "alt",
-  "title": "Tomato",
-  "price": 30,
-  "description": "Juicy",
-  "old_price": "40",
-  "category": "Seeds",
-  "type": "Fruits",
-  "userID": "605c5f5e8f1b2c001c8e4e8a"
-},
-{
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684503/apple_hfxv9n.png",
-  "alternative_image": "alt",
-  "title": "Apple",
-  "price": 30,
-  "description": "Juicy",
-  "old_price": "40",
-  "category": "Seeds",
-  "type": "Fruits",
-  "userID": "605c5f5e8f1b2c001c8e4e8a"
-},
-{
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684534/mango_va80ut.png",
-  "alternative_image": "alt",
-  "title": "Mango",
-  "price": 30,
-  "description": "Juicy",
-  "old_price": "40",
-  "category": "Seeds",
-  "type": "Fruits",
-  "userID": "605c5f5e8f1b2c001c8e4e8a"
-},
-{
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684520/banana_mmm1mz.png",
-  "alternative_image": "alt",
-  "title": "Banana",
-  "price": 30,
-  "description": "Juicy",
-  "old_price": "40",
-  "category": "Seeds",
-  "type": "Fruits",
-  "userID": "605c5f5e8f1b2c001c8e4e8a"
+  "type": "Fodder",
+  "userID": ""
 },
 
 {
-  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744684565/tomatoes_imscw1.png",
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727846/sorghum_bargrazer_fqreba.png",
   "alternative_image": "alt",
-  "title": "Tomato",
-  "price": 30,
-  "description": "Juicy",
-  "old_price": "40",
+  "title": "Sorghum",
+  "price": 1300,
+  "description": "Bargrazer",
+  "old_price": "1350",
   "category": "Seeds",
-  "type": "Fruits",
-  "userID": "605c5f5e8f1b2c001c8e4e8a"
-}
+  "type": "Fodder",
+  "userID": ""
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727851/sudan_grass_fkhsnh.png",
+  "alternative_image": "alt",
+  "title": "Sudan Grass",
+  "price": 600,
+  "description": "Kenya seed",
+  "old_price": "650",
+  "category": "Seeds",
+  "type": "Fodder",
+  "userID": ""
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727855/sunflower_vbhf8v.png",
+  "alternative_image": "alt",
+  "title": "Sunflower",
+  "price": 500,
+  "description": "Kenya seed 1 kg",
+  "old_price": "550",
+  "category": "Seeds",
+  "type": "Fodder",
+  "userID": ""
+},
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727845/oats_len6or.png",
+  "alternative_image": "alt",
+  "title": "Oats",
+  "price": 300,
+  "description": "S 18 1kg",
+  "old_price": "350",
+  "category": "Seeds",
+  "type": "Fodder",
+  "userID": ""
+},
+
+{
+  "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727845/lucerne_cvsxxr.png",
+  "alternative_image": "alt",
+  "title": "Lucerne",
+  "price": 2700,
+  "description": "Kenya seed 1 kg",
+  "old_price": "2800",
+  "category": "Seeds",
+  "type": "Fodder",
+  "userID": ""
+},
+
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727758/accacia_bresvispica_emyxr6.jpg",
+    "alternative_image": "alt",
+    "title": "Accacia bresvispica",
+    "price": 30,
+    "description": "Juicy",
+    "old_price": "40",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727761/aloe_vera_ahzxhk.jpg",
+    "alternative_image": "alt",
+    "title": "Aloe Vera",
+    "price": 30,
+    "description": "Juicy",
+    "old_price": "40",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727713/basil_qbvmic.jpg",
+    "alternative_image": "alt",
+    "title": "Basil",
+    "price": 30,
+    "description": "Juicy",
+    "old_price": "40",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": "67fe6a609d6c3a53403e497f"
+  },
+  
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727714/bayleaf_vvphnk.jpg",
+    "alternative_image": "alt",
+    "title": "BayLeaf",
+    "price": 30,
+    "description": "Juicy",
+    "old_price": "40",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727714/black_pepper_koypsc.jpg",
+    "alternative_image": "alt",
+    "title": "Black Pepper",
+    "price": 950,
+    "description": "Gloria F1",
+    "old_price": "1000",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727718/cardamon_lkcdea.jpg",
+    "alternative_image": "alt",
+    "title": "Cardamon",
+    "price": 530,
+    "description": "Carlifonia Wonder",
+    "old_price": "600",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727718/chia_iryvft.jpg",
+    "alternative_image": "alt",
+    "title": "Chia",
+    "price": 1900,
+    "description": "Emerald F1",
+    "old_price": "2000",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727720/chillies_dojeh2.jpg",
+    "alternative_image": "alt",
+    "title": "Chillies",
+    "price": 250,
+    "description": "Simlaw",
+    "old_price": "300",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727723/cinnamon_yxsrkj.jpg",
+    "alternative_image": "alt",
+    "title": "Cinnamon",
+    "price": 10000,
+    "description": "Neptune F1",
+    "old_price": "11000",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727723/clove_zru0bn.jpg",
+    "alternative_image": "alt",
+    "title": "Clove",
+    "price": 200,
+    "description": "FordHook",
+    "old_price": "250",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727723/coriander_nsokrr.jpg",
+    "alternative_image": "alt",
+    "title": "Coriander",
+    "price": 45,
+    "description": "Mulato II splits 50 pcs min",
+    "old_price": "50",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727723/cumin_zqgo2y.jpg",
+    "alternative_image": "alt",
+    "title": "Cumin",
+    "price": 3450,
+    "description": "Hyola 1 kg",
+    "old_price": "3600",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727728/ginger_c7npj7.jpg",
+    "alternative_image": "alt",
+    "title": "Ginger",
+    "price": 7000,
+    "description":  "Commander 2 kgs",
+    "old_price": "7500",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727728/garlic_i9mpzq.jpg",
+    "alternative_image": "alt",
+    "title": "Garlic",
+    "price": 1500,
+    "description": "Green Leaf 1kg",
+    "old_price": "1550",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727729/lemon_grass_xl7nwn.jpg",
+    "alternative_image": "alt",
+    "title": "Lemon Grass",
+    "price": 1700,
+    "description": "Kenya seed",
+    "old_price": "1800",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727734/mint_tzoanj.jpg",
+    "alternative_image": "alt",
+    "title": "Mint",
+    "price": 1300,
+    "description": "Bargrazer",
+    "old_price": "1350",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727734/nutmeg_gk4ctn.jpg",
+    "alternative_image": "alt",
+    "title": "Nutmeg",
+    "price": 600,
+    "description": "Kenya seed",
+    "old_price": "650",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727734/oregano_lrqilo.jpg",
+    "alternative_image": "alt",
+    "title": "Oregano",
+    "price": 500,
+    "description": "Kenya seed 1 kg",
+    "old_price": "550",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": "67fe6a609d6c3a53403e4990"
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727739/parsley_rdljph.jpgg",
+    "alternative_image": "alt",
+    "title": "Parsley",
+    "price": 300,
+    "description": "S 18 1kg",
+    "old_price": "350",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727743/rosemary_p2z1fr.jpg",
+    "alternative_image": "alt",
+    "title": "Rosemary",
+    "price": 2700,
+    "description": "Kenya seed 1 kg",
+    "old_price": "2800",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727743/sage_hukdy2.jpg",
+    "alternative_image": "alt",
+    "title": "Sage",
+    "price": 1700,
+    "description": "Kenya seed",
+    "old_price": "1800",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727745/stevia_nsicet.jpg",
+    "alternative_image": "alt",
+    "title": "Stevia",
+    "price": 1300,
+    "description": "Bargrazer",
+    "old_price": "1350",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727753/taragon_y9jcx7.jpg",
+    "alternative_image": "alt",
+    "title": "Taragon",
+    "price": 600,
+    "description": "Kenya seed",
+    "old_price": "650",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727753/thyme_aqung2.jpg",
+    "alternative_image": "alt",
+    "title": "Thyme",
+    "price": 500,
+    "description": "Kenya seed 1 kg",
+    "old_price": "550",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  },
+  {
+    "primary_image": "https://res.cloudinary.com/dzc7j0duu/image/upload/v1744727757/tumeric_ult3m5.jpg",
+    "alternative_image": "alt",
+    "title": "Tumeric",
+    "price": 300,
+    "description": "S 18 1kg",
+    "old_price": "350",
+    "category": "Seeds",
+    "type": "Herbs",
+    "userID": ""
+  }
+  
 ]
